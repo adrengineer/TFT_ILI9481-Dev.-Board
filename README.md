@@ -1,8 +1,8 @@
 # TFT_ILI9481-Dev.-Board
-A very simple developing board for a TFT screen based on ILI9481 graphical controller. 
+A simple developing board for a TFT screen based on ILI9481 graphic controller. 
 I designed up this circuit to develop some libraries for this graphical controller.
 
-This PCB was design using Allegro and OrCAD. It was my very design using this software package.
+This PCB was design using Allegro and OrCAD. It was my very first design using this software package.
 ![Allegro](https://user-images.githubusercontent.com/48243879/125199786-ca602080-e25f-11eb-8407-387dceebd20b.jpg)
 
 
